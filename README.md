@@ -15,4 +15,12 @@ For Patient user name: 301 password: Pat1
 
 A database is being provided in the folder it-self for executing it run the commands in mysql.
 
-Screen Shot of Project:
+**Screen Shot of Project:**
+![image](https://github.com/user-attachments/assets/24d2d0ac-9e01-424b-9b35-1b6f02d10341)
+![image](https://github.com/user-attachments/assets/1b26c916-0117-421b-8382-cea551dc0751)
+![image](https://github.com/user-attachments/assets/fcc83b9a-2ec1-46c5-b11d-11f4707b7908)
+![image](https://github.com/user-attachments/assets/04891204-02d5-4db6-884e-e78abf519bac)
+
+
+
+
