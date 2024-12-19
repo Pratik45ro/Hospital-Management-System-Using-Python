@@ -8,13 +8,16 @@ A comprehensive Hospital Management System designed to streamline and automate t
 
 **IMPORTANT INSTRUCTIONS HOW TO RUN THE PROJECT :-**
 
-Run the Login Page.py file In login page 
-For Admin user name: 123 password : Pranit
-For Doctor user name: 101 password: Doc1
-For Patient user name: 301 password: Pat1
+->Run the Login Page.py file In login page 
+
+1. For Admin user name: 123 password : Pranit
+2. For Doctor user name: 101 password: Doc1
+3. For Patient user name: 301 password: Pat1
 
 A database is being provided in the folder it-self for executing it run the commands in mysql.
 
+ **Run the Project in Pycharm**
+ 
 **Screen Shot of Project:**
 ![image](https://github.com/user-attachments/assets/24d2d0ac-9e01-424b-9b35-1b6f02d10341)
 ![image](https://github.com/user-attachments/assets/1b26c916-0117-421b-8382-cea551dc0751)
